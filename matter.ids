@@ -19,6 +19,9 @@
 	004d  Eve Door & Window
 	0050  Eve Energy
 	0059  Eve Motion
+1392  Tapo (Big Field Global PTE. Ltd.)
+	0101  Tapo Mini Smart Wi-Fi Plug [P100M]
+	0106  Tapo Mini Smart Wi-Fi Socket Energy Monitoring [P110M]
 fff1  Test Vendor #1
 fff2  Test Vendor #2
 fff3  Test Vendor #3
