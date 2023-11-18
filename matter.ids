@@ -1,0 +1,18 @@
+#
+#	List of Matter ID's
+#
+#	The database is a compilation of factual data, and as such the
+#	copyright would only covers the aggregation and formatting.
+#
+
+# Vendors and devices. Please keep sorted.
+
+# Syntax:
+# vendor  vendor_name
+#	device  device_name	<-- single tab
+
+0000  Matter Standard
+fff1  Test Vendor #1
+fff2  Test Vendor #2
+fff3  Test Vendor #3
+fff4  Test Vendor #4
