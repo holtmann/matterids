@@ -12,6 +12,9 @@
 #	device  device_name	<-- single tab
 
 0000  Matter Standard
+115a  Nanoleaf
+	0043  Nanoleaf Essentials Smart Bulb
+	0044  Nanoleaf Essentials Lightstrip
 130a  EVE SYSTEMS
 	004d  Eve Door & Window
 	0050  Eve Energy
