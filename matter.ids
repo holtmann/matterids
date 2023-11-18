@@ -12,6 +12,10 @@
 #	device  device_name	<-- single tab
 
 0000  Matter Standard
+130a  EVE SYSTEMS
+	004d  Eve Door & Window
+	0050  Eve Energy
+	0059  Eve Motion
 fff1  Test Vendor #1
 fff2  Test Vendor #2
 fff3  Test Vendor #3
